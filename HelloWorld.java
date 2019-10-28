@@ -5,6 +5,7 @@ public class HelloWorld {
 
 
 		System.out.println("Java Hello World Example");
+		System.out.println("Github Repository Changed");
 	}
 
 }
